@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "type": "income",
+      "descrip": "Desenvolvimento de Site",
+      "price": 28000,
+      "createAt": "2023-01-20T14:00:12.278Z",
+      "category": "Venda"
+    },
+    {
+      "id": 2,
+      "type": "outcome",
+      "descrip": "Shopping",
+      "price": 3000,
+      "createAt": "2023-02-16T19:00:12.278Z",
+      "category": "Compras e Alimentação"
+    },
+    {
+      "id": 3,
+      "type": "outcome",
+      "descrip": "Shopping",
+      "price": 5700,
+      "createAt": "2023-02-16T19:00:12.278Z",
+      "category": "Compras e Alimentação"
+    },
+    {
+      "descrip": "Comprar Suplemento",
+      "category": "Esportes e Saúde",
+      "type": "outcome",
+      "price": 330,
+      "createAt": "2023-01-16T19:12:31.368Z",
+      "id": 4
+    },
+    {
+      "descrip": "Primeiro Emprego (Junior Dev ReactJS)",
+      "category": "Job",
+      "type": "income",
+      "price": 3500,
+      "createAt": "2023-01-16T19:19:56.451Z",
+      "id": 5
+    },
+    {
+      "descrip": "Conseguiiii",
+      "category": "disciplina ",
+      "type": "income",
+      "price": 1000000,
+      "createAt": "2023-01-17T00:44:15.915Z",
+      "id": 6
+    }
+  ]
+}
